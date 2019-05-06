@@ -18,7 +18,6 @@ def pipeline_svm(img):
 
     return output
 
-
 if __name__ == "__main__":
 
     demo = 1  # 1:image (YOLO and SVM), 2: video (YOLO Pipeline), 3: video (SVM pipeline)
